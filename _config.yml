@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Website"
+title                    : "Boda Huo"
 title_separator          : "-"
 name                     : &name "Boda Huo"
 description              : &description "Boda's academic portfolio"
