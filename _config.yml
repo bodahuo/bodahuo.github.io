@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Boda 博达"
+  name             : "Huo Boda 霍博达"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I’m an M.S. student in Mechanical Engineering at **Carnegie Mellon University**, working in the **Safe AI Lab**. My research focuses on **tactile sensing** and **learning-based whole-body control** for contact-rich robotics."
   location         : "Pittsburgh PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
