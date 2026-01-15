@@ -8,14 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Boda Huo"
-description              : &description "Boda's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://bodahuo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Boda's academic portfolio"
+url                      : https://bodahuo.github.io
+baseurl                  : ""
 repository               : "bodahuo/bodahuo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +23,7 @@ repository               : "bodahuo/bodahuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huo Boda 霍博达"
+  name             : "Boda Huo (霍博达)"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "I’m an M.S. student in Mechanical Engineering at Carnegie Mellon University, working in the Safe AI Lab. My research focuses on tactile sensing and learning-based whole-body control for contact-rich robotics."
   location         : "Pittsburgh PA"
