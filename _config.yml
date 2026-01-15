@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Boda Huo / Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Boda Huo"
 description              : &description "Boda's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Huo Boda 霍博达"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I’m an M.S. student in Mechanical Engineering at **Carnegie Mellon University**, working in the **Safe AI Lab**. My research focuses on **tactile sensing** and **learning-based whole-body control** for contact-rich robotics."
+  bio              : "I’m an M.S. student in Mechanical Engineering at Carnegie Mellon University, working in the Safe AI Lab. My research focuses on tactile sensing and learning-based whole-body control for contact-rich robotics."
   location         : "Pittsburgh PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
