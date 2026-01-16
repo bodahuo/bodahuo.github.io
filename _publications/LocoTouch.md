@@ -7,7 +7,7 @@ excerpt: "Learning dynamic quadrupedal transport with tactile sensing."
 date: 2025-08-30  # year known; adjust month/day if you want
 venue: "Conference on Robot Learning (CoRL ’25), PMLR 305: 2779–2801"
 paperurl: "https://proceedings.mlr.press/v305/lin25a.html"
-citation: 'Lin, C.; Song, Y. R.; Huo, B.; et al. (2025). &quot;LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing.&quot; <i>Conference on Robot Learning (CoRL ’25)</i>, PMLR 305: 2779–2801.'
+citation: "Lin, C.; Song, Y. R.; Huo, B.; Yu, M.; Wang, Y.; Liu, S.; Yang, Y.; Yu, W.; Zhang, T.; Tan, J.; Luo, Y.; Zhao, D. (2025). &quot;LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing.&quot; <i>Conference on Robot Learning (CoRL 2025)</i>, PMLR 305: 2779–2801."
 ---
 
 **Paper:** [PMLR proceedings](https://proceedings.mlr.press/v305/lin25a.html)
