@@ -7,7 +7,7 @@ excerpt: "A visual–tactile fingertip sensor that enables deformation-independe
 date: 2025-12-01
 venue: "arXiv preprint arXiv:2512.20591"
 paperurl: "https://arxiv.org/abs/2512.20591"
-citation: "Lin, C.<sup>&#8224;</sup>; Huo, B.<sup>&#8224;</sup>; et al. (2025). &quot;LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing.&quot; <i>arXiv preprint</i> arXiv:2512.20591. <sup>&#8224;</sup>Equal contribution."
+citation: "Lin, C.<sup>&#8224;</sup>; Huo, B.<sup>&#8224;</sup>; Yu, M.; Ruppel, E.; Chen, B.; Francis, J.; Zhao, D. (2025). &quot;LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing.&quot; <i>arXiv preprint</i> arXiv:2512.20591. <sup>&#8224;</sup>Equal contribution."
 ---
 
 **Paper:** [Arxiv preprint](https://arxiv.org/abs/2512.20591)
