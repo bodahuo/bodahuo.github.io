@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/locotouch-corl-2025
 excerpt: "Learning dynamic quadrupedal transport with tactile sensing."
-date: 2025-01-01  # year known; adjust month/day if you want
+date: 2025-08-30  # year known; adjust month/day if you want
 venue: "Conference on Robot Learning (CoRL ’25), PMLR 305: 2779–2801"
 paperurl: "https://proceedings.mlr.press/v305/lin25a.html"
 citation: 'Lin, C.; Song, Y. R.; Huo, B.; et al. (2025). &quot;LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing.&quot; <i>Conference on Robot Learning (CoRL ’25)</i>, PMLR 305: 2779–2801.'
@@ -16,6 +16,10 @@ citation: 'Lin, C.; Song, Y. R.; Huo, B.; et al. (2025). &quot;LocoTouch: Learni
 LocoTouch studies tactile-aware learning for **dynamic quadrupedal transport**. The core idea is to use distributed tactile sensing to improve robustness during long-horizon carrying tasks, especially under contact uncertainty.
 
 ### My Contribution
-- Co-developed tactile-aware transport learning pipeline and evaluation (details on my Research page / resume).
+I contributed to both the **hardware** and **learning / sim-to-real pipeline** that enable tactile-aware transport:
 
-- Project page: https://linchangyi1.github.io/LocoTouch/
+- **Designed and fabricated the distributed tactile hardware** (221-taxel piezoresistive array) to provide wide-area, high-density contact feedback over the robot’s back. I iterated on the physical build and wiring/scanning approach to support reliable, repeatable sensing during dynamic motion.
+- **Improved manufacturability and robustness of the sensing stack**, focusing on practical issues that matter for long experiments—repeatability, yield, and stability across runs. In parallel, I supported updates to the PCB and sensing electronics with the goal of reducing cross-talk and increasing frame rate.
+- **Helped develop the tactile-aware transport policy**, contributing to a teacher–student training pipeline (PPO → DAgger) and emphasizing reliable tracking behavior with PD control so the learned policy remains stable during real hardware execution.
+
+- Project page: "https://linchangyi1.github.io/LocoTouch/"
