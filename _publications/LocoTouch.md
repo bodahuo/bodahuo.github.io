@@ -18,7 +18,4 @@ LocoTouch studies tactile-aware learning for **dynamic quadrupedal transport**. 
 ### My Contribution
 - Co-developed tactile-aware transport learning pipeline and evaluation (details on my Research page / resume).
 
-If you’d like, add links here:
-- Code:
-- Video:
-- Project page:
+- Project page: https://linchangyi1.github.io/LocoTouch/
