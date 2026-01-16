@@ -1,13 +1,24 @@
 ---
-title: "Paper Title Number 4"
+title: "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/locotouch-corl-2025
+excerpt: "Learning dynamic quadrupedal transport with tactile sensing."
+date: 2025-01-01  # year known; adjust month/day if you want
+venue: "Conference on Robot Learning (CoRL ’25), PMLR 305: 2779–2801"
+paperurl: "https://proceedings.mlr.press/v305/lin25a.html"
+citation: 'Lin, C.; Song, Y. R.; Huo, B.; et al. (2025). &quot;LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing.&quot; <i>Conference on Robot Learning (CoRL ’25)</i>, PMLR 305: 2779–2801.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Paper:** [PMLR proceedings link]({{ page.paperurl }})
+
+### Summary
+LocoTouch studies tactile-aware learning for **dynamic quadrupedal transport**. The core idea is to use distributed tactile sensing to improve robustness during long-horizon carrying tasks, especially under contact uncertainty.
+
+### My Contribution
+- Co-developed tactile-aware transport learning pipeline and evaluation (details on my Research page / resume).
+
+If you’d like, add links here:
+- Code:
+- Video:
+- Project page:
