@@ -8,6 +8,8 @@ venue: "arXiv preprint arXiv:2512.20591"
 paperurl: "https://arxiv.org/abs/2512.20591"
 ---
 
+**Paper:** [Arxiv preprint](https://arxiv.org/abs/2512.20591)
+
 ## Summary
 LightTact is a visual–tactile fingertip sensor designed to make contact sensing more robust under large and diverse deformations. By capturing both the tactile deformation field and surface appearance cues (e.g., color / text), the sensor supports deformation-independent contact understanding and downstream manipulation/perception tasks.
 
