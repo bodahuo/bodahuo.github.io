@@ -11,6 +11,7 @@ citation: 'Lin, C.; Song, Y. R.; Huo, B.; et al. (2025). &quot;LocoTouch: Learni
 ---
 
 **Paper:** [PMLR proceedings](https://proceedings.mlr.press/v305/lin25a.html)
+
 **Project page:** [linchangyi1.github.io/LocoTouch](https://linchangyi1.github.io/LocoTouch/)
 
 ### Summary
