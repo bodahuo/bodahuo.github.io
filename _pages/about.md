@@ -9,7 +9,7 @@ redirect_from:
 
 ## About
 
-I’m an M.S. student in Mechanical Engineering (Research) at Carnegie Mellon University (expected May 2026). I completed my B.S. in Mechanical Engineering at UC Santa Barbara in 2024.
+I’m an M.S. student in Mechanical Engineering at Carnegie Mellon University (expected May 2026). I completed my B.S. in Mechanical Engineering at UC Santa Barbara in 2024.
 
 My research goal is to make robots **reliably perceive and act under contact uncertainty**. I work on tactile sensing systems and learning-based control for contact-rich tasks, with an emphasis on real-world robustness.
 
