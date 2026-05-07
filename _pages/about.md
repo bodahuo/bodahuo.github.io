@@ -13,6 +13,8 @@ I’m an M.S. student in Mechanical Engineering at Carnegie Mellon University (e
 
 My research goal is to make robots **reliably perceive and act under contact uncertainty**. I work on tactile sensing systems and learning-based control for contact-rich tasks, with an emphasis on real-world robustness.
 
+I am honored to have worked with [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html) and PhD student [Changyi Lin](https://linchangyi1.github.io/) at CMU’s [Safe AI Lab](https://safeai-lab.github.io/), and with [Prof. Elliot Hawkes](https://me.ucsb.edu/people/elliot-hawkes) at UCSB.
+
 ## Research interests
 - Visual–tactile sensing and piezoresistive tactile arrays  
 - Learning-based whole-body control for contact-rich robotics  
@@ -23,7 +25,7 @@ My research goal is to make robots **reliably perceive and act under contact unc
 **LocoTouch (CoRL 2025).**  
 I worked on tactile-aware dynamic transport for quadrupeds, combining distributed tactile sensing with a learning pipeline designed to transfer from simulation to real hardware. The project studies how tactile feedback improves stability and robustness when carrying unsecured objects over long horizons.
 
-**LightTact (arXiv 2025, † equal contribution).**  
+**LightTact (RSS 2026, † equal contribution).**  
 I developed a visual–tactile fingertip sensor aimed at deformation-independent contact sensing. The key idea is to capture both deformation signals and surface appearance cues (e.g., color/text), enabling robust contact understanding across a wide range of materials and contact conditions.
 
 ## Currently

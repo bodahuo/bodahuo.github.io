@@ -2,15 +2,16 @@
 title: "LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing"
 collection: publications
 category: conferences
-permalink: /publication/lighttact-arxiv-2025
+permalink: /publication/lighttact-rss-2026
 excerpt: "A visual–tactile fingertip sensor that enables deformation-independent contact sensing by capturing both deformation and surface appearance cues."
-date: 2025-12-01
-venue: "arXiv preprint arXiv:2512.20591"
+date: 2026-06-21
+venue: "Robotics: Science and Systems (RSS 2026)"
 paperurl: "https://arxiv.org/abs/2512.20591"
-citation: "Lin, C.<sup>&#8224;</sup>; Huo, B.<sup>&#8224;</sup>; Yu, M.; Ruppel, E.; Chen, B.; Francis, J.; Zhao, D. (2025). &quot;LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing.&quot; <i>arXiv preprint</i> arXiv:2512.20591. <sup>&#8224;</sup>Equal contribution."
+video: "/videos/LightTact.8.mp4"
+citation: "Lin, C.<sup>&#8224;</sup>; Huo, B.<sup>&#8224;</sup>; Yu, M.; Ruppel, E.; Chen, B.; Francis, J.; Zhao, D. (2026). &quot;LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing.&quot; <i>Robotics: Science and Systems (RSS 2026)</i>. <sup>&#8224;</sup>Equal contribution."
 ---
 
-**Paper:** [Arxiv preprint](https://arxiv.org/abs/2512.20591)
+**Paper:** [arXiv preprint](https://arxiv.org/abs/2512.20591)
 
 ## Summary
 LightTact is a visual–tactile fingertip sensor designed to make contact sensing more robust under large and diverse deformations. By capturing both the tactile deformation field and surface appearance cues (e.g., color / text), the sensor supports deformation-independent contact understanding and downstream manipulation/perception tasks.

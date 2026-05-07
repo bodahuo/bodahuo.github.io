@@ -26,6 +26,16 @@
       </div>
     {% endif %}
 
+    {% if post.video %}
+    <div style="display: flex; align-items: flex-start; gap: 1.5em; margin-bottom: 0.5em;">
+      <div style="flex: 0 0 260px; max-width: 260px;">
+        <video autoplay loop muted playsinline style="width: 100%; border-radius: 6px; display: block;">
+          <source src="{{ post.video }}" type="video/mp4">
+        </video>
+      </div>
+      <div style="flex: 1; min-width: 0;">
+    {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -78,6 +88,11 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+
+    {% if post.video %}
+      </div>
+    </div>
     {% endif %}
 
   </article>
