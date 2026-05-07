@@ -20,13 +20,12 @@ I am honored to have worked with [Prof. Ding Zhao](https://www.meche.engineering
 - Learning-based whole-body control for contact-rich robotics  
 - Sim-to-real reinforcement learning and evaluation for robustness and safety  
 
-## Selected work
+## Publications
 
-**LocoTouch (CoRL 2025).**  
-I worked on tactile-aware dynamic transport for quadrupeds, combining distributed tactile sensing with a learning pipeline designed to transfer from simulation to real hardware. The project studies how tactile feedback improves stability and robustness when carrying unsecured objects over long horizons.
-
-**LightTact (RSS 2026, † equal contribution).**  
-I developed a visual–tactile fingertip sensor aimed at deformation-independent contact sensing. The key idea is to capture both deformation signals and surface appearance cues (e.g., color/text), enabling robust contact understanding across a wide range of materials and contact conditions.
+{% include base_path %}
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
 
 ## Currently
 - Building and calibrating tactile sensing hardware for reliable contact signals  
